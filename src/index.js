@@ -114,4 +114,3 @@ function Square(props) {
     <Game />,
     document.getElementById('root')
   );
-  
